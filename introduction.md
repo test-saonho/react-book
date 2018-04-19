@@ -98,7 +98,7 @@ In this book, you will build your own production-ready web application (see the 
 
 You could spend weeks searching these topics on Google. Our book puts everything about building a web app into one place.
 
-[_link_](#project-structure) Project structure
+## Project structure
 ----------------------------------------------
 
 Take a look at the [final code](https://github.com/builderbook/builderbook) and the [codebase for each chapter](https://github.com/builderbook/builderbook/tree/master/book).
